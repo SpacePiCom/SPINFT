@@ -1,0 +1,44 @@
+{
+  "data": [{
+    "image": "https://svg.space-pi.com/pinetwork.svg",
+    "url":"https://minepi.com/SpacePiDev"
+  },
+  {
+    "image": "https://svg.space-pi.com/bitkeep.svg",
+    "url":"https://btc-pi.com"
+  },
+  {
+    "image": "https://svg.space-pi.com/spinft.svg",
+    "url":"https://spi-swap.com/swap"
+  },
+  {
+    "image": "https://svg.space-pi.com/twitter.svg",
+    "url":"https://twitter.com/SpacePi_NFT"
+  },
+  {
+    "image": "https://svg.space-pi.com/element.svg",
+    "url":"https://element.market/collections/cyberpunk-pi"
+  },
+  {
+    "image": "https://svg.space-pi.com/tofunft.svg",
+    "url":"https://tofunft.com/collection/cyberpunk-pi/items"
+  },
+  {
+    "image": "https://svg.space-pi.com/nfttrade.svg",
+    "url":"https://nftrade.com/collection/cyberpunk-pi"
+  },
+  {
+    "image": "https://svg.space-pi.com/discord.svg",
+    "url":"https://discord.com/invite/BVHfQtZhcH"
+  },
+  {
+    "image": "https://svg.space-pi.com/openmeta.svg",
+    "url":"https://nft.openmeta.finance/#/collection/56/166"
+  },
+  {
+    "image": "https://svg.space-pi.com/bitkeep.svg",
+    "url":"https://bitkeep.io/"
+  }],
+  "code": 200,
+  "msg": "success"
+}

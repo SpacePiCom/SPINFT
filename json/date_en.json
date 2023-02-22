@@ -1,0 +1,11 @@
+
+{
+  "data": {
+    "days":"Days",
+    "hours":"Hours",
+    "minutes":"Mins",
+    "seconds":"Secs"
+  },
+  "code": 200,
+  "msg": "success"
+}

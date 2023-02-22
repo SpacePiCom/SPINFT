@@ -1,0 +1,11 @@
+
+{
+  "data": {
+    "days":"天",
+    "hours":"小时",
+    "minutes":"分钟",
+    "seconds":"秒"
+  },
+  "code": 200,
+  "msg": "success"
+}

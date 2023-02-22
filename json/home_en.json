@@ -1,0 +1,19 @@
+{
+  "data": {
+    "title": "SpacePi Astronaut V2",
+    "container": "SpacePi Astronaut V2 is upgraded from the V1, with a total of 31415, and each NFT is unique.SpacePi Astronaut V2 will airdrop equal value to V1 holders, and will become one of the fragments of Nicholas NFT in the future.",
+    "getStarted": "Stake to Mint",
+    "create": "NFT Presale",
+    "createUrl": "https://spi-nft.com/#/boxes/details?id=2",
+    "createUrlPath":"/boxes/details?id=2",
+    "connectWallet": "Connect Wallet",
+    "connectWallets": "Connect",
+    "connectSuccess": "Connect Success",
+    "connectFail": "Connect Fail",
+    "connectDisconnect": "Disconnect Success",
+    "BlindBoxAdvertising":"SPINFT Function",
+    "SPINFTPartner":"SPINFT Partner"
+  },
+  "code": 200,
+  "msg": "success"
+}
