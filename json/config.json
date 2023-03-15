@@ -1,0 +1,11 @@
+{
+    "chainId": 56,
+    "chainName": "Binance Smart Chain Mainnet",
+    "nativeCurrency": {
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18
+    },
+    "rpcUrls": "https://endpoints.omniatech.io/v1/bsc/mainnet/public",
+    "blockExplorerUrls": "https://bscscan.com"
+}

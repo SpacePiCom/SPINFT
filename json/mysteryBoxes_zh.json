@@ -171,7 +171,7 @@
           "start_time": 1663150738,
           "end_time": 1665770400,
           "status": 1,
-          "endTimeStatus": true,
+          "endTimeStatus": false,
           "spacepi_decimal": 9,
           "btcpi_decimal": 18,
           "usdt_decimal": 18,
