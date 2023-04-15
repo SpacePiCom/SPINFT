@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "质押铸造",
+    "text": "通过质押来铸造 NFT",
+    "Completed": "已完成",
+    "Processing": "进行中",
+    "Finished": "已结束",
+    "Harvest": "收获",
+    "Staked": "质押",
+    "AuthorizedQuota": "授权",
+    "stakedLP": "质押 代币",
+    "ConnectWallet": "连接钱包",
+    "details": "详情",
+    "Get": "获取",
+    "View_Contract": "查看合约",
+    "See_Pair_Info": "代币信息",
+    "LP": "流动性代币",
+    "tip1": "已完成的进度会自动发放至您的钱包",
+    "tip2": "质押说明",
+    "add": "增加",
+    "del": "移除",
+    "balance": "余额",
+    "max": "最大",
+    "cancel": "关闭",
+    "confirm": "确认",
+    "incomeBackpack": "收入背包"
+  },
+  "code": 200,
+  "msg": "success"
+}

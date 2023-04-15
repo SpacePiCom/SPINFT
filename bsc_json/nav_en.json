@@ -1,0 +1,47 @@
+[
+  {
+    "link": "/",
+    "title": "Home",
+    "hasDropdown": false,
+    "megamenu": false,
+    "dropdownItems": [
+      { "link": "/", "title": "Home Page One", "icon": "home" },
+      { "link": "/index-02", "title": "Home Page Two", "icon": "home" },
+      { "link": "/index-03", "title": "Home Page Three", "icon": "home" },
+      { "link": "/index-04", "title": "Home Page Four", "icon": "home" },
+      { "link": "/index-05", "title": "Home Page Five", "icon": "home" },
+      { "link": "/index-06", "title": "Home Page Six", "icon": "home" },
+      { "link": "/index-07", "title": "Home Page Seven", "icon": "home" },
+      { "link": "/index-08", "title": "Home Page Eight", "icon": "home" },
+      { "link": "/index-09", "title": "Home Page Nine", "icon": "home" }
+    ]
+  },
+  {
+    "link": "/boxes",
+    "title": "LaunchPad",
+    "hasDropdown": false,
+    "megamenu": false,
+    "dropdownItems": []
+  },
+  {
+    "link": "/smint",
+    "title": "Smint",
+    "hasDropdown": false,
+    "megamenu": false,
+    "dropdownItems": []
+  },
+  {
+    "link": "/airdrop",
+    "title": "Airdrop",
+    "hasDropdown": false,
+    "megamenu": false,
+    "dropdownItems": []
+  },
+  {
+    "link": "http://space-pi.com",
+    "title": "SpacePi",
+    "hasDropdown": false,
+    "megamenu": false,
+    "dropdownItems": []
+  }
+]

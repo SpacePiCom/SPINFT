@@ -1,0 +1,12 @@
+{
+  "data": [{
+    "image": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/ca1ca979-b8ce-4581-188a-2b7d08228100/public",
+    "url":"/boxes"
+  },
+  {
+    "image": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/7d40966e-79c6-4df5-934d-4f58cfa5bf00/public",
+    "url":"/smint"
+  }],
+  "code": 200,
+  "msg": "success"
+}

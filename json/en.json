@@ -1,0 +1,9 @@
+{
+  "network": "Network",
+  "changeNetwork": {
+    "title": "Wrong network",
+    "text": "Switch to ",
+    "text2": "Continue after switching networks...",
+    "bnt": ["Switch to ", "Disconnect"]
+  }
+}

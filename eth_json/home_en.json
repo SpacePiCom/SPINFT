@@ -1,0 +1,43 @@
+{
+  "title": "SpacePi Planet V2 ETH",
+  "container": "The total amount of SpacePi Planet V2 is 31415, of which #1 to #10000 are issued and circulated on the ETH chain. Obtained by staking SpacePi ETH/LP, airdrop, destruction, etc., it belongs to the PFPs type NFT of CC0 category.",
+  "getStarted": "Stake to Mint",
+  "getStartedUrl": "/smint",
+  "create": "NFT Trade",
+  "createUrl": "https://opensea.io/collection/spacepiplanet",
+  "createUrlPath": "https://opensea.io/collection/spacepiplanet",
+  "connectWallet": "Connect Wallet",
+  "connectWallets": "Connect",
+  "connectSuccess": "Connect Success",
+  "connectFail": "Connect Fail",
+  "connectDisconnect": "Disconnect Success",
+  "BlindBoxAdvertising": "Function",
+  "SPINFTPartner": "Partners",
+  "advertisement": "More",
+  "homeBanner": [
+    {
+      "banner_url": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/8322fe69-1894-451a-9b54-2781a17d8200/public",
+      "url": "/smint"
+    }
+  ],
+  "nftCarousel": [
+    {
+      "img": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/5fb172a1-90c0-46a2-a6ba-3e0f51ba1400/public",
+      "title": "Cyberpunk Pi ETH",
+      "text": "Cyberpunk Pi is a secondary creation of the Pi Network logo, and it will abide by the CC0 copyright principle. The Cyberpunk Pi NFT designed by the SpacePi team for the Pi community. Total: 31415, will be airdropped to the global community.",
+      "bntTitle1": "Stake to Mint",
+      "bntUrl1": "/smint",
+      "bntTitle2": "NFT LaunchPad",
+      "bntUrl2": "/boxes/details?id=2&chainId=1"
+    },
+    {
+      "img": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/dc2b22bd-4066-4df7-3972-0a3d8cd9e500/public",
+      "title": "Nicholas By SpacePi",
+      "text": "Nicholas SpacePi NFT was designed and launched by the SpacePi team to pay tribute to him who founded the Pi Network. The total amount is yet to be determined, and the acquisition method will be synthesized through multiple other SpacePi NFTs.",
+      "bntTitle1": "Compound",
+      "bntUrl1": "/smint",
+      "bntTitle2": "Coming Soon",
+      "bntUrl2": "/boxes"
+    }
+  ]
+}

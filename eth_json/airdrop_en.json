@@ -1,0 +1,50 @@
+{
+  "data": {
+
+    "nftdata": [
+     
+    ],
+    "network": 1,
+    "title": "SpacePi Planet Series NFT Box",
+    "text": "The box includes 20 different costumes with 1 Exclusive costume for Sugar Sugar.",
+    "remainingAmount": "Remaining Amount:",
+    "contractAddress": "Contract Address:",
+    "pickUpTime": "End ae Time:",
+    "pickUpTimeStamp": "2022/08/03 22:00:00 - 2022/08/06 22:00:00",
+    "auctionEndingIn": "Unlock Countdown",
+    "date": {
+      "day": "Day",
+      "hour": "HRS",
+      "minute": "MINS",
+      "second": "SECS"
+    },
+    "pledge": "Lock-in NFT Airdrop",
+    "quantity": "Num",
+    "Weights": "Proportion",
+    "receive": "Receive",
+    "all": "all",
+    "waiting": "Waiting",
+    "successPurchased": "Success Purchased",
+    "name": "Name",
+    "transactionId": "Transaction ID",
+    "ok": "OK",
+    "approved": "Enable",
+    "connectWallet": "Connect Wallet",
+    "message": {
+      "allowance_success": "Enable Success",
+      "allowance_error": "Enable Fail",
+      "withdraw_success": "Withdraw Success",
+      "withdraw_error": "Withdraw Fail",
+      "withdraw_error2": "Withdraw Fail",
+      "deposit_success": "Lock Success",
+      "deposit_error": "Lock Fail",
+      "claim_success": "Claim Success",
+      "claim_error": "Claim Fail"
+    },
+    "output": "Airdrop",
+    "progress":"In Progress",
+    "finished":"Finished"
+  },
+  "code": 200,
+  "msg": "Success"
+}

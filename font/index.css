@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Segoe UI-Black';
+  src: url('./segoeuib.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Segoe UI-Semibold';
+  src: url('./segoeuisl.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-weight: normal;
+  font-style: normal;
+}

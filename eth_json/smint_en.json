@@ -1,0 +1,30 @@
+{
+  "data": {
+    "title": "Stake to Mint",
+    "text": "Mint NFTs by staking tokens",
+    "Completed": "Completed",
+    "Processing": "Processing",
+    "Finished": "Finished",
+    "Harvest": "Harvest",
+    "Staked": "Staked",
+    "AuthorizedQuota": "Enable",
+    "stakedLP": "Stake",
+    "ConnectWallet": "Connect",
+    "details": "Details",
+    "Get": "Get",
+    "View_Contract": "View Contract",
+    "See_Pair_Info": "Token Info",
+    "LP": "LP",
+    "tip1": "Progress is automatically distributed and included in wallet",
+    "tip2": "Stake Info",
+    "add": "Add",
+    "del": "Remove",
+    "balance": "Balance",
+    "max": "Max",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "incomeBackpack": "Recived"
+  },
+  "code": 200,
+  "msg": "success"
+}

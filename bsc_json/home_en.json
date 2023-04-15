@@ -1,0 +1,52 @@
+{
+  "title": "SpacePi Astronaut",
+  "container": "SpacePi Astronaut V2 is upgraded from the V1, with a total of 31415, and each NFT is unique.SpacePi Astronaut V2 will airdrop equal value to V1 holders, and will become one of the fragments of Nicholas NFT in the future.",
+  "getStarted": "Stake to Mint",
+  "getStartedUrl": "/smint",
+  "create": "NFT LaunchPad",
+  "createUrl": "/boxes/details?id=2&chainId=56",
+  "createUrlPath": "/boxes/details?id=2&chainId=56",
+  "connectWallet": "Connect Wallet",
+  "connectWallets": "Connect",
+  "connectSuccess": "Connect Success",
+  "connectFail": "Connect Fail",
+  "connectDisconnect": "Disconnect Success",
+  "BlindBoxAdvertising": "Function",
+  "SPINFTPartner": "Partners",
+  "advertisement": "More",
+  "homeBanner": [
+    {
+      "banner_url": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/20e4b128-ff3e-4218-a1e6-0442b7539100/public",
+      "url": "/smint"
+    }
+  ],
+  "nftCarousel": [
+    {
+      "img": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/5fb172a1-90c0-46a2-a6ba-3e0f51ba1400/public",
+      "title": "Cyberpunk Pi BSC",
+      "text": "Cyberpunk Pi is a secondary creation of the Pi Network logo, and it will abide by the CC0 copyright principle. The Cyberpunk Pi NFT designed by the SpacePi team for the Pi community. Total: 31415, will be airdropped to the global community.",
+      "bntTitle1": "Stake to Mint",
+      "bntUrl1": "/smint",
+      "bntTitle2": "NFT Trade",
+      "bntUrl2": "https://opensea.io/collection/cyberpunk-pi-bnb"
+    },
+    {
+      "img": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/8322fe69-1894-451a-9b54-2781a17d8200/public",
+      "title": "SpacePi Planet V2 BSC",
+      "text": "The total amount of SpacePi Planet V2 is 31415, of which #10001 to #31415 are issued and circulated on the BNB Smart chain. Obtained by staking SpacePi ETH/LP, airdrop, destruction, etc., it belongs to the PFPs type NFT of CC0 category.",
+      "bntTitle1": "Stake to Mint",
+      "bntUrl1": "/smint",
+      "bntTitle2": "NFT Trade",
+      "bntUrl2": "https://opensea.io/assets/bsc/0xa58Eb817Dda3415FB68cB040021f5049350dEb45"
+    },
+    {
+      "img": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/dc2b22bd-4066-4df7-3972-0a3d8cd9e500/public",
+      "title": "Nicholas By SpacePi",
+      "text": "Nicholas SpacePi NFT was designed and launched by the SpacePi team to pay tribute to him who founded the Pi Network. The total amount is yet to be determined, and the acquisition method will be synthesized through multiple other SpacePi NFTs.",
+      "bntTitle1": "Compound",
+      "bntUrl1": "/smint",
+      "bntTitle2": "Coming Soon",
+      "bntUrl2": "/boxes"
+    }
+  ]
+}

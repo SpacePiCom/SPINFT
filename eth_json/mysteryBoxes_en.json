@@ -1,0 +1,177 @@
+{
+  "data": {
+    "inProgress": "LaunchPad",
+    "finished": "Finished",
+    "refresh": "Refresh",
+    "salesStartTime": "LaunchPad Countdown",
+    "price": "Price",
+    "mysteryBoxes": "NFT Boxes",
+    "description": "Description",
+    "details": "Details",
+    "connectWallet": "Connect Wallet",
+    "authorizedQuota": "Enable",
+    "buyBlindBox": "Buy",
+    "mysteryBoxesIllustrate": "The upper limit of the number of NFT LaunchPad purchases is subject to the display.",
+    "blindBoxDetails": "NFT Details",
+    "whitelistError": "Non-whitelisted users, temporarily unavailable",
+    "waiting": "Waiting",
+    "waitingSuccess": "Success purchased.",
+    "quantity": "Quantity",
+    "name": "Name",
+    "transactionID": "Transaction ID",
+    "receive": "Receive",
+    "inputBuyQuantity": "Enter the Num",
+    "notWhitelisted": "Not a whitelist",
+    "insufficientBalance": "Insufficient balance",
+    "inPublicPreSale": "LaunchPad",
+    "bind": "Bind",
+    "bindText": "Bind the invitation link, and your inviter can get a 10% commission reward.",
+    "invitationAddress": "Invitation Bind",
+    "bindSuccess": "Bind Success",
+    "bindFail": "Bind Fail",
+    "PleaseconnectWallet": "Please Connect Wallet",
+    "pindding": "Binding...",
+    "allowanceSuccess": "Enable Success",
+    "allowanceFail": "Enable Fail",
+    "inviteMembers": "InviteMembers",
+    "number": "Number",
+    "address": "Address",
+    "copytitle": "Copy",
+    "copytext": "Bind the invitation link, and your inviter can get a 10% commission reward.",
+    "copySuccess": "CopySuccess",
+    "copyFail": "CopyFail",
+    "award": "Award",
+    "invite": "Invite",
+    "invitationBonus": "Invitation bonus",
+    "bindingmsg": "10% of the pre-order bonus has been automatically credited to your wallet account",
+    "cancel": "Cancel",
+    "more":"More",
+    "less":"Less",
+    "paymentWallet":{
+      "way1":"Operation Wallet",
+      "way2":"BlackHole Wallet"
+    },
+    "inviteText":"Please Connect Wallet",
+    "inviteText1":"Please Bind Your Wallet",
+    "data": [
+      {
+        "id": 2,
+        "content": {
+          "logo_url": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/5fb172a1-90c0-46a2-a6ba-3e0f51ba1400/public",
+          "owner_logo": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/5fb172a1-90c0-46a2-a6ba-3e0f51ba1400/public",
+          "title": "Cyberpunk Pi ETH\r\n",
+          "nft_title": "Cyberpunk Pi ",
+          "description": "Cyberpunk Pi is a secondary creation of the Pi Network logo, and it will abide by the CC0 copyright principle. The Cyberpunk Pi NFT designed by the SpacePi team for the Pi community. Total: 31415, will be airdropped to the global community.#20001-#31415 are issued on the ETH chain",
+          "content": "Cyberpunk Pi is a secondary creation of the Pi Network logo, and it will abide by the CC0 copyright principle. The Cyberpunk Pi NFT designed by the SpacePi team for the Pi community. Total: 31415, will be airdropped to the global community.",
+          "start_time": 1663150738,
+          "end_time": 1665770400,
+          "status": 1,
+          "endTimeStatus": true,
+          "spacepi_decimal": 9,
+          "btcpi_decimal": 18,
+          "usdt_decimal": 6,
+          "ipfs_url": "https://ipfs.io/ipfs/bafybeialtorktcvjozp4t3gcaih42eknsegmhlyuimcj2v7jmd5j5vwp2a/",
+          "spacepi_address": "0x69b14e8d3cebfdd8196bfe530954a0c226e5008e",
+          "btcpi_address": "",
+          "usdt_address": "",
+          "contract_address": "0x0640344755ef64BB62a007b61f007Caed301d4F0",
+          "Quantity": 3140,
+          "date": "2022-10-30",
+          "Creator": "CyberpunkPi",
+          "Owner": "CyberpunkPi",
+          "chain_id": 1,
+          "Network": "ETH",
+          "Invite": true,
+          "Black": true,
+          "Version":"v2"
+          
+        },
+        "details": [
+          {
+            "title": "Launch Num",
+            "text": "3140"
+          },
+          {
+            "title": "Launch Date",
+            "text": "2022-10-30"
+          },
+          {
+            "title": "Network",
+            "text": "ETH"
+          },
+          {
+            "title": "Contract Address",
+            "text": ""
+          }
+        ],
+        "boxDetails": [
+          {
+            "id": 0,
+            "uid": 1,
+            "title": "Cyberpunk Pi #20001",
+            "logo_url": "https://cloudflare-ipfs.com/ipfs/bafybeih4sfe35l7pn2o6gljors3ptmjldc5e3olbe3ufcv5sofz324wkwi/20001.png",
+            "url": "https://opensea.io/assets/ethereum/0x095ebcd862302e7f15b303d42ebe40a33f379435/20001"
+          },
+          {
+            "id": 1,
+            "uid": 1,
+            "title": "Cyberpunk Pi #20001",
+            "logo_url": "https://cloudflare-ipfs.com/ipfs/bafybeih4sfe35l7pn2o6gljors3ptmjldc5e3olbe3ufcv5sofz324wkwi/20001.png",
+            "url": "https://opensea.io/assets/ethereum/0x095ebcd862302e7f15b303d42ebe40a33f379435/20002"
+          },
+          {
+            "id": 2,
+            "uid": 1,
+            "title": "Cyberpunk Pi #20003",
+            "logo_url": "https://cloudflare-ipfs.com/ipfs/bafybeih4sfe35l7pn2o6gljors3ptmjldc5e3olbe3ufcv5sofz324wkwi/20003.png",
+            "url": "https://opensea.io/assets/ethereum/0x095ebcd862302e7f15b303d42ebe40a33f379435/20003"
+          },
+          {
+            "id": 3,
+            "uid": 1,
+            "title": "Cyberpunk Pi #20004",
+            "logo_url": "https://cloudflare-ipfs.com/ipfs/bafybeih4sfe35l7pn2o6gljors3ptmjldc5e3olbe3ufcv5sofz324wkwi/20004.png",
+            "url": "https://opensea.io/assets/ethereum/0x095ebcd862302e7f15b303d42ebe40a33f379435/20004"
+          },
+          {
+            "id": 4,
+            "uid": 1,
+            "title": "Cyberpunk Pi #20005",
+            "logo_url": "https://cloudflare-ipfs.com/ipfs/bafybeih4sfe35l7pn2o6gljors3ptmjldc5e3olbe3ufcv5sofz324wkwi/20005.png",
+            "url": "https://opensea.io/assets/ethereum/0x095ebcd862302e7f15b303d42ebe40a33f379435/20005"
+          },
+          {
+            "id": 5,
+            "uid": 1,
+            "title": "Cyberpunk Pi #20006",
+            "logo_url": "https://cloudflare-ipfs.com/ipfs/bafybeih4sfe35l7pn2o6gljors3ptmjldc5e3olbe3ufcv5sofz324wkwi/20006.png",
+            "url": "https://opensea.io/assets/ethereum/0x095ebcd862302e7f15b303d42ebe40a33f379435/20006"
+          },
+          {
+            "id": 6,
+            "uid": 1,
+            "title": "Cyberpunk Pi #20007",
+            "logo_url": "https://cloudflare-ipfs.com/ipfs/bafybeih4sfe35l7pn2o6gljors3ptmjldc5e3olbe3ufcv5sofz324wkwi/20007.png",
+            "url": "https://opensea.io/assets/ethereum/0x095ebcd862302e7f15b303d42ebe40a33f379435/20007"
+          },
+          {
+            "id": 7,
+            "uid": 1,
+            "title": "Cyberpunk Pi #20008",
+            "logo_url": "https://cloudflare-ipfs.com/ipfs/bafybeih4sfe35l7pn2o6gljors3ptmjldc5e3olbe3ufcv5sofz324wkwi/20008.png",
+            "url": "https://opensea.io/assets/ethereum/0x095ebcd862302e7f15b303d42ebe40a33f379435/20008"
+          },
+          {
+            "id": 8,
+            "uid": 1,
+            "title": "Cyberpunk Pi #20009",
+            "logo_url": "https://cloudflare-ipfs.com/ipfs/bafybeih4sfe35l7pn2o6gljors3ptmjldc5e3olbe3ufcv5sofz324wkwi/20009.png",
+            "url": "https://opensea.io/assets/ethereum/0x095ebcd862302e7f15b303d42ebe40a33f379435/20009"
+          }
+        ]
+      }
+    ]
+  },
+  "code": 200,
+  "msg": "success"
+}

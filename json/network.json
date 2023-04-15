@@ -1,0 +1,43 @@
+[
+  {
+    "chainLogoName":"bsc",
+    "icon":"/image/bsc.svg",
+    "chainId": 56,
+    "chainName": "BNB Chain",
+    "nativeCurrency": {
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18
+    },
+    "rpcUrls": [
+      "https://bsc-dataseed1.ninicoin.io",
+      "https://rpc.ankr.com/bsc",
+      "https://bsc-dataseed2.ninicoin.io",
+      "https://bsc-dataseed3.ninicoin.io",
+      "https://bsc-dataseed3.defibit.io/",
+      "https://bsc-dataseed4.defibit.io/",
+      "https://bsc-dataseed2.defibit.io/",
+      "https://bsc-dataseed1.defibit.io/",
+      "https://1rpc.io/bnb"
+    ],
+    "blockExplorerUrls": ["https://bscscan.com"]
+  },
+  {
+    "chainLogoName":"eth",
+    "icon":"/image/eth.svg",
+    "chainId": 1,
+    "chainName": "Ethereum",
+    "nativeCurrency": {
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "rpcUrls": [
+      "https://eth.llamarpc.com",
+      "https://eth-rpc.gateway.pokt.network",
+      "https://rpc.flashbots.net",
+      "https://1rpc.io/eth"
+    ],
+    "blockExplorerUrls": ["https://etherscan.io"]
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "title": "SpacePi 太空人",
+  "container": "SpacePi 太空人 V2由V1升级而来，共有31415个，每一个NFT都是独一无二的。SpacePi 太空人 V2 将对 V1持有者进行等价值空投，未来将会成为合成尼古拉斯NFT的碎片之一。",
+  "getStarted": "质押铸造",
+  "getStartedUrl": "/smint",
+  "create": "发射台",
+  "createUrl": "/boxes/details?id=2&chainId=56",
+  "createUrlPath": "/boxes/details?id=2&chainId=56",
+  "connectWallet": "连接钱包",
+  "connectWallets": "连接",
+  "connectSuccess": "连接成功",
+  "connectFail": "连接失败",
+  "connectDisconnect": "断开成功",
+  "BlindBoxAdvertising": "功能",
+  "SPINFTPartner": "合作",
+  "advertisement": "更多",
+  "homeBanner": [
+    {
+      "banner_url": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/20e4b128-ff3e-4218-a1e6-0442b7539100/public",
+      "url": "/smint"
+    }
+  ],
+  "nftCarousel": [
+    {
+      "img": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/5fb172a1-90c0-46a2-a6ba-3e0f51ba1400/public",
+      "title": "赛博朋克 Pi BSC",
+      "text": "赛博朋克 Pi是Pi Network logo的二次创作，将遵守CC0版权原则。 SpacePi 团队为 Pi 社区设计的赛博朋克 Pi NFT。 总量：31415，将空投至全球社区。",
+      "bntTitle1": "质押铸造",
+      "bntUrl1": "/smint",
+      "bntTitle2": "NFT 交易",
+      "bntUrl2": "https://opensea.io/collection/cyberpunk-pi-bnb"
+    },
+    {
+      "img": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/8322fe69-1894-451a-9b54-2781a17d8200/public",
+      "title": "SpacePi 星球 V2 BSC",
+      "text": "SpacePi Planet V2总量为31415，其中#10001至#31415在BNB智能链上发行流通。 通过质押SpacePi ETH/LP、空投、销毁等方式获得，属于CC0类别的PFPs类型NFT。",
+      "bntTitle1": "质押铸造",
+      "bntUrl1": "/smint",
+      "bntTitle2": "NFT 交易",
+      "bntUrl2": "https://opensea.io/assets/bsc/0xa58Eb817Dda3415FB68cB040021f5049350dEb45"
+    },
+    {
+      "img": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/dc2b22bd-4066-4df7-3972-0a3d8cd9e500/public",
+      "title": "尼古拉斯 SpacePi",
+      "text": "尼古拉斯 SpacePi NFT是由 SpacePi 团队设计推出的，是为了致敬 他创立了 Pi Network。总量暂时未定，获取方式将会通过多个其他 SpacePi NFT 合成。",
+      "bntTitle1": "销毁合成",
+      "bntUrl1": "/smint",
+      "bntTitle2": "即将上线",
+      "bntUrl2": "/boxes"
+    }
+  ]
+}
