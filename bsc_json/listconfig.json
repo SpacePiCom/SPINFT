@@ -17,7 +17,7 @@
   "end_time":1697385600,
   "logo_url1":"https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/2909893a-827a-43e5-d5a0-eaff6a4d2c00/public",
   "logo_url2":null,
-  "setallowance":10000000000000,
+  "setallowance":10000000000000000000000,
   "contracturl":"https://bscscan.com/address/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E#code",
   "piarurl":"https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
   "z":3
@@ -105,7 +105,7 @@
   "end_time":1726156800,
   "logo_url1":"https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/2909893a-827a-43e5-d5a0-eaff6a4d2c00/public",
   "logo_url2":null,
-  "setallowance":10000000000000,
+  "setallowance":10000000000000000000000,
   "contracturl":"https://bscscan.com/address/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E#code",
   "piarurl":"https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
   "z":1

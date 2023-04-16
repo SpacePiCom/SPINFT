@@ -39,7 +39,7 @@
   "end_time":1697385600,
   "logo_url1":"https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/2909893a-827a-43e5-d5a0-eaff6a4d2c00/public",
   "logo_url2":"https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/42397c23-3ce6-46e0-7dac-36d414057900/public",
-  "setallowance":100000,
+  "setallowance":1000000,
   "contracturl":"https://etherscan.io/address/0x959873Fb4FC11825Fba83c80C4c632db1E936e15#code",
   "piarurl":"https://app.uniswap.org/#/add/v2/ETH/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
   "z":2
@@ -83,7 +83,7 @@
     "end_time":1697385600,
     "logo_url1":"https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/2909893a-827a-43e5-d5a0-eaff6a4d2c00/public",
     "logo_url2":"https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/42397c23-3ce6-46e0-7dac-36d414057900/public",
-    "setallowance":100000,
+    "setallowance":1000000,
     "contracturl":"https://etherscan.io/address/0x959873Fb4FC11825Fba83c80C4c632db1E936e15#code",
     "piarurl":"https://app.uniswap.org/#/add/v2/ETH/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
     "z":4
