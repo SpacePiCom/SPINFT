@@ -41,7 +41,7 @@
   "logo_url2":"https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/a6244fbb-407a-441f-79ec-47b638ccf600/public",
   "setallowance":10000000,
   "contracturl":"https://bscscan.com/address/0xbCA91e8842408f00577Ee80DB8dcFa24d7c1e627#code",
-  "piarurl":"https://pancakeswap.finance/add/0x4aaad68be1a2ac9886b72b9dae474f3edd2132d9/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+  "piarurl":"https://spi-swap.com/add/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E/0x4aAAD68BE1A2Ac9886B72b9DaE474F3eDd2132D9",
   "z":4
   },
   {
@@ -63,7 +63,7 @@
   "logo_url2":"https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png",
   "setallowance":100000,
   "contracturl":"https://bscscan.com/address/0x5d41418a006587038c4740c75c1d688cbaa6427e#code",
-  "piarurl":"https://pancakeswap.finance/add/0x4aaad68be1a2ac9886b72b9dae474f3edd2132d9/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+  "piarurl":"https://spi-swap.com/add/0x4aaad68be1a2ac9886b72b9dae474f3edd2132d9/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
   "z":3
   },
   {
@@ -85,7 +85,7 @@
   "logo_url2":"https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png",
   "setallowance":100000,
   "contracturl":"https://bscscan.com/address/0xc736D81C0D96e21FAFDf30083FD812a3DE41A203#code",
-  "piarurl":"https://pancakeswap.finance/add/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+  "piarurl":"https://spi-swap.com/add/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
   "z":4
   },
   {

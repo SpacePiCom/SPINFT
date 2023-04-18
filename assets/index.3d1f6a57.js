@@ -1,4 +1,4 @@
-import{bb as $,ae as J}from"./index.ee2d2e4a.js";var Z="/assets/sigh.7e70e93c.svg",M={exports:{}};/*!
+import{bs as $,ad as J}from"./index.5a817fc5.js";var Z="/assets/sigh.7e70e93c.svg",M={exports:{}};/*!
  * clipboard.js v2.0.11
  * https://clipboardjs.com/
  *

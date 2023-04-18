@@ -5,5 +5,12 @@
     "text": "Switch to ",
     "text2": "Continue after switching networks...",
     "bnt": ["Switch to ", "Disconnect"]
-  }
+  },
+  "chainError":{
+    "text1":"DAPP network",
+    "text2":"doesn't match to network selected in wallet",
+    "text3":"Network ID:",
+    "text4":" . Learn how to change network in wallet or"
+  },
+  "chainBnt":"Change Network"
 }
