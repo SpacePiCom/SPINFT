@@ -4,8 +4,8 @@
   "getStarted": "质押铸造",
   "getStartedUrl": "/smint",
   "create": "NFT 交易",
-  "createUrl": "https://opensea.io/collection/spacepiplanet",
-  "createUrlPath": "https://opensea.io/collection/spacepiplanet",
+  "createUrl": "https://opensea.io/collection/spacepi-planet-v2-eth",
+  "createUrlPath": "https://opensea.io/collection/spacepi-planet-v2-eth",
   "connectWallet": "连接钱包",
   "connectWallets": "连接",
   "connectSuccess": "连接成功",
@@ -17,7 +17,7 @@
   "homeBanner": [
     {
       "banner_url": "https://imagedelivery.net/OhcNFig7WudIXwDM7XpTdw/8322fe69-1894-451a-9b54-2781a17d8200/public",
-      "url": "https://opensea.io/collection/spacepiplanet"
+      "url": "https://opensea.io/collection/spacepi-planet-v2-eth"
     }
   ],
   "nftCarousel": [
