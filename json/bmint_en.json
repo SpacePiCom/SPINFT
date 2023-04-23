@@ -1,0 +1,60 @@
+{
+  "title": "Burn To Mint",
+  "description": "New NFT can be minted by burning NFT (transfer to black hole address)",
+  "connectWallet": "Connect Wallet",
+  "add": "Add",
+  "dle": "Del",
+  "choose": "Choose",
+  "quantity": "Num",
+  "all": "All",
+  "waiting": "Waiting",
+  "waitingData": "Waiting ...",
+  "success": "Mint Success",
+  "ok": "Comfirm",
+  "name": "Name",
+  "transactionId": "Transaction ID",
+  "convertNft": "Burn To Mint",
+  "destroy": "Burn To Mint",
+  "tokenId": "Token ID",
+  "contractAddress": "Contract Address",
+  "approved": "Enable",
+  "message": {
+    "allowance_success": "Enable Success",
+    "allowance_error": "Enable Fail",
+    "exchange_success": "Mint Success",
+    "exchange_error": "Mint Fail"
+  },
+  "nftdata": [
+    {
+      "title1":"SpacePi Planet V1",
+      "title2":"SpacePi Planet V2",
+      "logo_url1":"https://img.tofunft.com/v2/56/0xb08eca58c2209d9da3aa4d64403a4553de6eb822/1/280/image.jpg",
+      "logo_url2":"https://cloudflare-ipfs.com/ipfs/bafybeibdemlmo7rqs4z4giajagwntsv6cnkqjc7uhf32dsxpaquzmk7zty/10001.png",
+
+      "address":"0xb08eca58c2209d9da3aa4d64403a4553de6eb822",
+      "contract":"0x6ad23051e50525148fd5d036618ee86d274930e2",
+
+      "path":"https://img.tofunft.com/v2/56/0xb08eca58c2209d9da3aa4d64403a4553de6eb822/",
+      "et":"/1440/image.jpg",
+      "text":"New NFT can be minted by burning NFT (transfer to black hole address) ",
+      "outputImage": "https://img.tofunft.com/v2/56/0x0a5205048f0025c91a96608f4ce94a112bd49311/1/280/image.jpg",
+      "NFT_count":1,
+      "Quantitative":25,
+      "NFT_Address":"0xa58Eb817Dda3415FB68cB040021f5049350dEb45"
+    },{
+      "title1":"Astronaut V1",
+      "title2":"SpacePi Astronaut V2",
+      "address":"0x095ebcd862302e7f15b303d42ebe40a33f379435",
+      "contract":"0x1f65582149a296e6ffab6b1e3b95c323f4978231",
+      "logo_url1":"https://img.tofunft.com/v2/56/0x095ebcd862302e7f15b303d42ebe40a33f379435/1/280/image.jpg",
+      "logo_url2":"https://img.tofunft.com/v2/56/0x0A5205048F0025C91a96608f4CE94A112bd49311/1/280/image.jpg",
+      "path":"https://img.tofunft.com/v2/56/0x095ebcd862302e7f15b303d42ebe40a33f379435/",
+      "et":"/1440/image.jpg",
+      "text":"New NFT can be minted by burning NFT (transfer to black hole address)",
+      "outputImage": "https://img.tofunft.com/v2/56/0x0a5205048f0025c91a96608f4ce94a112bd49311/1/280/image.jpg",
+      "NFT_count":10,
+      "Quantitative":5,
+      "NFT_Address":"0x0A5205048F0025C91a96608f4CE94A112bd49311"
+    }
+  ]
+}

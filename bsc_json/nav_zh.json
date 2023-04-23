@@ -31,8 +31,8 @@
     "dropdownItems": []
   },
   {
-    "link": "/airdrop",
-    "title": "空投",
+    "link": "/bmint",
+    "title": "销毁铸造",
     "hasDropdown": false,
     "megamenu": false,
     "dropdownItems": []

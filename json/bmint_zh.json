@@ -1,0 +1,60 @@
+{
+  "title": "销毁铸造",
+  "description": "通过销毁NFT（转入黑洞地址）可以铸造新的NFT",
+  "connectWallet": "连接钱包",
+  "add": "增加",
+  "dle": "删除",
+  "choose": "选择",
+  "quantity": "数量",
+  "all": "所有",
+  "waiting": "等待中",
+  "waitingData": "等待中...",
+  "success": "成功铸造",
+  "ok": "好的",
+  "name": "名字",
+  "transactionId": "交易 ID",
+  "convertNft": "销毁铸造",
+  "destroy": "销毁铸造",
+  "tokenId": "通证 ID",
+  "contractAddress": "合约地址",
+  "approved":"授权",
+  "message":{
+    "allowance_success":"授权成功",
+    "allowance_error":"授权失败",
+    "exchange_success":"成功铸造",
+    "exchange_error":"铸造失败"
+  },
+  "nftdata":[
+    {
+      "title1":"SpacePi Planet V1",
+      "title2":"SpacePi Planet V2",
+      "logo_url1":"https://img.tofunft.com/v2/56/0xb08eca58c2209d9da3aa4d64403a4553de6eb822/1/280/image.jpg",
+      "logo_url2":"https://cloudflare-ipfs.com/ipfs/bafybeibdemlmo7rqs4z4giajagwntsv6cnkqjc7uhf32dsxpaquzmk7zty/10001.png",
+
+      "address":"0xb08eca58c2209d9da3aa4d64403a4553de6eb822",
+      "contract":"0x6ad23051e50525148fd5d036618ee86d274930e2",
+
+      "path":"https://img.tofunft.com/v2/56/0xb08eca58c2209d9da3aa4d64403a4553de6eb822/",
+      "et":"/1440/image.jpg",
+      "text":"通过销毁NFT（转入黑洞地址）可以铸造新的NFT， 限制为 25 个 NFT。",
+      "outputImage": "https://img.tofunft.com/v2/56/0x0a5205048f0025c91a96608f4ce94a112bd49311/1/280/image.jpg",
+      "NFT_count":1,
+      "Quantitative":25,
+      "NFT_Address":"0xa58Eb817Dda3415FB68cB040021f5049350dEb45"
+    },{
+      "title1":"Astronaut V1",
+      "title2":"SpacePi Astronaut V2",
+      "address":"0x095ebcd862302e7f15b303d42ebe40a33f379435",
+      "contract":"0x1f65582149a296e6ffab6b1e3b95c323f4978231",
+      "logo_url1":"https://img.tofunft.com/v2/56/0x095ebcd862302e7f15b303d42ebe40a33f379435/1/280/image.jpg",
+      "logo_url2":"https://img.tofunft.com/v2/56/0x0A5205048F0025C91a96608f4CE94A112bd49311/1/280/image.jpg",
+      "path":"https://img.tofunft.com/v2/56/0x095ebcd862302e7f15b303d42ebe40a33f379435/",
+      "et":"/1440/image.jpg",
+      "text":"通过销毁NFT（转入黑洞地址）可以铸造新的NFT， 限制为 5 个 NFT。",
+      "outputImage": "https://img.tofunft.com/v2/56/0x0a5205048f0025c91a96608f4ce94a112bd49311/1/280/image.jpg",
+      "NFT_count":10,
+      "Quantitative":5,
+      "NFT_Address":"0x0A5205048F0025C91a96608f4CE94A112bd49311"
+    }
+  ]
+}
